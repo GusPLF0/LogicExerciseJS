@@ -4,6 +4,3 @@
 function whoIsBigger(...values){
     return `O maior é: ${Math.max(...values)}`
 }
-
-
-console.log(whoIsBigger(11,10, 13, 19, 22))
