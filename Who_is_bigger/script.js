@@ -1,4 +1,4 @@
-// Script for comparing 2 numbers and log who is bigger
+// Script for comparing numbers and log who is bigger
 
 
 function whoIsBigger(...values){
